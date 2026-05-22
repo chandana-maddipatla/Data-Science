@@ -1,0 +1,9 @@
+# AI Student Management System — saved at 2026-05-18 09:11:41
+STU001|Ayesha Khan|21|Data Science|88.5|ayesha.khan@example.com
+STU002|Rohan Mehta|22|Machine Learning|74.0|rohan.mehta@example.com
+STU003|Priya Sharma|20|Artificial Intelligence|91.0|priya.sharma@example.com
+STU004|Arjun Patel|23|Data Science|45.5|arjun.patel@example.com
+STU005|Sneha Desai|21|Deep Learning|62.0|sneha.desai@example.com
+STU006|Vikram Singh|24|Computer Vision|55.0|vikram.singh@example.com
+STU007|Meera Nair|22|Natural Language Processing|38.0|meera.nair@example.com
+STU008|Karan Joshi|20|Data Science|79.5|karan.joshi@example.com
